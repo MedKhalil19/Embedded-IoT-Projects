@@ -200,9 +200,7 @@ The repository includes a final simulation video demonstrating the Stewart Platf
 
 ## Mechanical Design
 
-- CAD Modeling Software
-- 3D Design
-- Mechanical Assembly
+- Solidworks
 
 ## Robotics & Simulation
 
@@ -213,8 +211,14 @@ The repository includes a final simulation video demonstrating the Stewart Platf
 ## Hardware
 
 - 6 × Firgelli Filt0805 Linear Actuators
-- Motor Control Electronics
+- 6 × TB6612FNG
 - Power Supply System
+- ESP32 38 Pins
+- ESP32 Expansion Board
+- MPU 6050
+- Alimentation à découpage
+- Module LM2596S
+- Module XL4016
 
 ## Engineering Fields
 
@@ -244,7 +248,6 @@ This project demonstrates experience in:
 
 Possible future developments:
 
-- Add real-time motion control
 - Integrate IMU feedback
 - Implement closed-loop control
 - Develop a dedicated controller board
