@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The **Smart Pet Feeder** is an Internet of Things (IoT) system designed to automate pet feeding while allowing users to monitor and control the device remotely through a mobile application.
+The **Smart Pet Feeder** is an Internet of Things (IoT) system designed to automate pet feeding while allowing users to monitor and control the device either remotely through a mobile application or locally using an OLED display and physical buttons.
 
 Developed during my engineering internship, this project combines embedded systems, electronics, PCB design, mechanical design, and mobile application development to create a complete connected product.
 
