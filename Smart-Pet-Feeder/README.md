@@ -97,13 +97,13 @@ The project combines several engineering disciplines into a single connected sys
 ```text
                 Mobile Application
                         │
-                  Wi-Fi Communication
+                Wi-Fi Communication
                         │
-                    Embedded Controller
+                Embedded Controller
                         │
         ┌───────────────┼───────────────┐
         │               │               │
-     Sensors        Actuators       Power System
+     Sensors     Stepper Motor       Power System
         │               │
         └───────────────┴───────────────┘
                 Mechanical Structure
@@ -129,7 +129,7 @@ This repository includes images of:
 
 - ESP32
 - Sensors
-- Motors / Actuators
+- Stepper Motor
 - Custom PCB
 
 ## Software
