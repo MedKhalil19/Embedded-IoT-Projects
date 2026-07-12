@@ -115,14 +115,11 @@ The project combines several engineering disciplines into a single connected sys
 
 This repository includes images of:
 
-- Mechanical CAD design
 - Mechanical assembly
 - Electrical schematic
-- PCB schematic
 - PCB layout
 - 3D PCB visualization
 - Mobile application
-- Final prototype
 
 ---
 
@@ -137,13 +134,13 @@ This repository includes images of:
 
 ## Software
 
-- Embedded C / Arduino IDE
-- Mobile Application Development
+- Embedded C / Arduino IDE / Wokwi
+- Blynk
 
 ## Design Software
 
-- CAD Software
-- PCB Design Software
+- Solidworks
+- Altuim Design
 
 ---
 
@@ -159,7 +156,6 @@ This project demonstrates experience in:
 - Mobile Application Development
 - Wireless Communication
 - System Integration
-- Product Prototyping
 
 ---
 
