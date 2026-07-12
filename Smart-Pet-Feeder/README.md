@@ -13,7 +13,7 @@ The goal was to design an intelligent feeding solution capable of providing sche
 # 🎯 Project Objectives
 
 - Automate pet feeding
-- Enable remote monitoring and control
+- Enable remote / local monitoring and control
 - Develop a reliable embedded system
 - Design a custom electronic circuit
 - Create a dedicated PCB
